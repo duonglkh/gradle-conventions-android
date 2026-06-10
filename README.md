@@ -71,7 +71,7 @@ This is repo #1 of a planned set:
 - [android-template-base](https://github.com/duonglkh/android-template-base) — the showcase scaffold
 - compose-theme-kit · compose-onboarding · compose-locale-switcher · compose-settings · compose-error-states · compose-permission · connectivity-flow · datastore-prefs-kit
 
-See [hidev.github.io](https://hidev.github.io/#projects) for the full roster.
+See [duonglkh.github.io](https://duonglkh.github.io/#projects) for the full roster.
 
 ## License
 
